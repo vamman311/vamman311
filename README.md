@@ -2,7 +2,7 @@
 
 I'm a fullstack web developer interested in learning new tech.
 
-If you have questions, ideas, or anything project related feel free to reach out.
+If you have questions, ideas, or anything project related feel free to [contact](#contacts) me.
 
 ## Tech I'm familiar with
 
@@ -43,6 +43,14 @@ If you have questions, ideas, or anything project related feel free to reach out
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+### Contacts
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+
+
+              
 <!--
 **vamman311/vamman311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
