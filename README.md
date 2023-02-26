@@ -46,10 +46,8 @@ If you have questions, ideas, or anything project related feel free to [contact]
 
 ### Contacts
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/-andrewarsenault/)
 &nbsp;
-
-
               
 <!--
 **vamman311/vamman311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
